@@ -6,7 +6,17 @@
 
 .page1-1{
     background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 7.81%);
-    margin-top: -100px;
+    margin-top: -10px;
+}
+
+#carousel{
+    margin-top: 20px;
+    margin-left: -20px;
+}
+
+#titre1{
+    margin-top: -150px;
+    margin-left: -20px;
 }
 
 h3{
