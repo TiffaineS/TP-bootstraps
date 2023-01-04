@@ -6,7 +6,7 @@
 
 .page1-1{
     background: linear-gradient(180deg, rgba(20, 20, 20, 0) 0%, #141414 7.81%);
-    margin-top: -10px;
+    margin-top: -20px;
 }
 
 #carousel{
@@ -15,14 +15,15 @@
 }
 
 #titre1{
-    margin-top: -150px;
+    margin-top: -190px;
     margin-left: -20px;
+    margin-bottom: 35px;
 }
 
 h3{
     color: #FFFFFF;
     padding-left: 135px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-size: 45px;
     margin-top: 60px;
 }
@@ -37,7 +38,7 @@ h3{
 
 footer{
     background:#141414;
-    padding-left: 350px;
+    padding-left: 320px;
     padding-top: 80px;
 }
 
@@ -73,5 +74,73 @@ footer{
 .page2{
     background: url("Rectangle 5.svg") no-repeat;
     background-size: 100%;
-    height: 900px;
+    height: 990px;
+}
+
+input:focus {
+    outline:  none;
+}
+
+.logos2{
+    padding-left: 80px;
+    padding-top: 200px;
+}
+
+#logoserie2{
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+span{
+    font-size: 40px;
+    color: white;
+    letter-spacing : 5px;
+    font-weight: bold;
+    margin-left: 80px;
+}
+
+.page3{
+    background: url("Rectangle 6.svg") no-repeat;
+    background-size: 100%;
+    height: 990px;
+}
+
+.logos3{
+    padding-left: 120px;
+    padding-top: 185px;
+}
+
+#logoserie3{
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.petitlogob1{
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+
+.petitlogob2{
+    position: absolute;
+    left: 340px;
+    top: 5px;
+}
+
+.petitlogob3{
+    position: absolute;
+    left: 660px;
+    top: 5px;
+}
+
+.petitlogob4{
+    position: absolute;
+    left: 980px;
+    top: 5px;
+}
+
+.petitlogob5{
+    position: absolute;
+    left: 1300px;
+    top: 5px;
 }
