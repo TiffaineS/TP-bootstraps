@@ -1,0 +1,152 @@
+body {
+  background-color: #355B3E;
+}
+
+#block1 {
+  background-color: white;
+  text-align: justify;
+  padding: 60px;
+  height: 714px;
+  width: 550px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#block2 {
+  background-color: #F5DBC4;
+  width: 746px;
+  height: 714px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center space-around;
+  height: 900px;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center space-evenly;
+}
+
+.motsbas {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+h4 {
+  color: #355B3E;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+h4 + p, p:first-child {
+  color: #58745E;
+  font-weight: 400;
+}
+
+.motsbas p:nth-child(2), .motsbas p:nth-child(3), .motsbas p:nth-child(4) {
+  color: #355B3E;
+  font-weight: 500;
+}
+
+.block {
+  font-size: 16px;
+}
+
+.email {
+  color: #2F3D4C;
+  font-weight: bold;
+}
+
+.mdp {
+  color: #355B3E;
+  font-weight: bold;
+}
+
+input::placeholder {
+  color: #355B3E;
+  font-weight: 400;
+}
+
+input {
+  accent-color: #029664;
+}
+
+.contour {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 16px;
+  gap: 8px;
+  width: 422px;
+  height: 56px;
+  background: white;
+  border: 1px solid #B8D6BF;
+  border-radius: 8px;
+}
+
+#cont1, #cont2 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.motsbas {
+  margin-top: 50px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+#bout1 {
+  background: #029664;
+  border-radius: 8px;
+  border: solid 1px #029664;
+  padding: 15px;
+  width: 200px;
+  margin-top: 40px;
+}
+
+#bout2 {
+  background-color: white;
+  color: #029664;
+  border-radius: 8px;
+  border: solid 1px #029664;
+  padding: 15px;
+  width: 200px;
+  margin-top: 40px;
+}
+
+#p2 {
+  color: #355B3E;
+  text-decoration: underline;
+}
+
+.checkbox {
+  color: #355B3E;
+  font-weight: 400;
+  padding-left: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=style.css.map */
