@@ -1,0 +1,64 @@
+.partiehaut{
+    background: url(Rectangle11.png) no-repeat;
+    background-size: 100%;
+    height: 480px;
+}
+
+.partiebas{
+    background: #000000 13.54%;
+    margin-top: -130px;
+    padding-top: 10px;
+}
+
+h5{
+    color: white;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+#logob{
+    position: absolute;
+    top:10px;
+    left: 10px;
+}
+
+button{
+    position: absolute;
+    top: 330px;
+    left: 130px;
+}
+
+.petitlogob1{
+    position: absolute;
+    left: 20px;
+    top: 5px;
+}
+
+.petitlogob2{
+    position: absolute;
+    left: 340px;
+    top: 5px;
+}
+
+.petitlogob3{
+    position: absolute;
+    left: 660px;
+    top: 5px;
+}
+
+.petitlogob4{
+    position: absolute;
+    left: 980px;
+    top: 5px;
+}
+
+.petitlogob5{
+    position: absolute;
+    left: 1300px;
+    top: 5px;
+}
+
+
+.partienav{
+    background: #191919;
+}
