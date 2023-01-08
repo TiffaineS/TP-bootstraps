@@ -2,6 +2,7 @@
     background: url("Rectangle 4.svg") no-repeat;
     background-size: 100%;
     height: 900px;
+    margin-top: -1px;
 }
 
 .page1-1{
@@ -36,10 +37,15 @@ h3{
     padding-left: 15px;
 }
 
+#carousel{
+    padding-bottom: 1px;
+}
+
 footer{
     background:#141414;
     padding-left: 320px;
     padding-top: 80px;
+    margin-top: -2px;
 }
 
 .logos{
@@ -75,6 +81,7 @@ footer{
     background: url("Rectangle 5.svg") no-repeat;
     background-size: 100%;
     height: 990px;
+    margin-top: -1px;
 }
 
 input:focus {
@@ -103,6 +110,7 @@ span{
     background: url("Rectangle 6.svg") no-repeat;
     background-size: 100%;
     height: 990px;
+    margin-top: -1px;
 }
 
 .logos3{
